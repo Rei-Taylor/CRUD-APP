@@ -439,7 +439,6 @@ def table2(df2):
     
 @ui.page("/analysis")
 def analysis_page():
-    navbar()
     analysis()
 
 @ui.page("/", dark=True)
