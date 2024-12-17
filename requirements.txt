@@ -1,0 +1,5 @@
+nicegui
+pandas 
+sqlalchemy
+pymysql
+requests
