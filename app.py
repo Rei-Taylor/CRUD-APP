@@ -475,7 +475,7 @@ def main():
 
 
 
-ui.run(on_air="FnygfC0A7CHm8u1s")
+ui.run()
 
 
 
